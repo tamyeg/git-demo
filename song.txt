@@ -1,0 +1,1 @@
+of only theoretical examples. Having more data made it easier to compare results, identify patterns, and understand how a system behaves under different conditions.
